@@ -8,7 +8,7 @@ kondoBot é uma inteligência artificial simples para facilitar processos no lin
 
 <div align="center">
   
-  Aqui está uma lista dos comandos disponiveis por enquanto
+ lista dos comandos disponiveis
 
 </div>
 
